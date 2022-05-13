@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- This document contains data on Codifica di
+Testi.
+Filename: prologo.xml
+Author: Gabriele Pergola
+Date: 13/4/2022-->
+<radice>
+    <elemento>
+    <figlio></figlio>
+    <figlio></figlio>
+    </elemento>
+</radice>
